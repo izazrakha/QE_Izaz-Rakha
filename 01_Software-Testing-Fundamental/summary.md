@@ -2,6 +2,9 @@ Software testing adalah proses yang dilakukan untuk mengevaluasi dan memvalidasi
 
 Pengujian perangkat lunak melibatkan serangkaian aktivitas, termasuk merencanakan pengujian, merancang skenario pengujian, mengembangkan kasus uji, menjalankan pengujian, melacak hasil, dan melaporkan temuan. Pengujian dapat mencakup berbagai jenis, seperti pengujian fungsional, pengujian non-fungsional (seperti kinerja, keamanan, dan skalabilitas), pengujian otomatis, dan pengujian manual.
 
+coba pull reaquest
+coba lagi
+
 Platform Software Testing :
 1. Desktop Platforms:
 Windows: Pengujian perangkat lunak di lingkungan Windows.
@@ -65,5 +68,3 @@ Menguji keseluruhan sistem perangkat lunak untuk memastikan bahwa semuanya berfu
 4. Pengujian Penerimaan (Acceptance Testing):
 Dilakukan oleh pengguna akhir atau pemangku kepentingan lainnya untuk memastikan bahwa perangkat lunak telah siap digunakan.
 
-coba pull reaquest
-coba lagi
