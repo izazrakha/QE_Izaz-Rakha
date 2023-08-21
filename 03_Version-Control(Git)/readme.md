@@ -1,5 +1,5 @@
-Version Control System memungkinkan developer untuk mengelola perubahan dalam code sumber dan berkas-berkas project. VCS merekam setiap perubahan yang terjadi pada berkas, memungkinkan kolaborasi tim, memudahkan pelacakan perubahan.  
+Sistem Kontrol Versi (Version Control System atau VCS) memungkinkan pengembang untuk mengelola perubahan dalam kode sumber dan file-file proyek. VCS mencatat setiap perubahan yang terjadi pada file, memfasilitasi kerja tim, dan memudahkan pelacakan perubahan.
 
-sedangkan Git adalah sistem kontrol versi yang terdesentralisasi dan sangat cepat. Ini dirancang oleh Linus Torvalds dan digunakan secara luas dalam pengembangan perangkat lunak. Git memiliki repositori sentral yang berisi riwayat perubahan, dan setiap anggota tim dapat melakukan salinan repositori ini ke komputer lokal.
+Sementara itu, Git adalah jenis sistem kontrol versi yang terdesentralisasi dan sangat cepat. Dibuat oleh Linus Torvalds, Git banyak digunakan dalam pengembangan perangkat lunak. Git memiliki repositori pusat yang menyimpan catatan perubahan, dan setiap anggota tim dapat menyalin repositori ini ke komputer lokal mereka.
 
-yang terakhir adalah Branching dalam Git yang memungkinkan developer untuk bekerja secara terisolasi dalam branch yang terpisah dari kode utama atau main branch. Hal ini memungkinkan update fitur baru, perbaikan bug, atau eksperimen tanpa mempengaruhi code yang sudah ada di main branch.
+Yang terakhir, cabang (branching) dalam Git memungkinkan pengembang untuk bekerja secara terisolasi di cabang yang terpisah dari cabang utama (main branch). Ini memungkinkan pengembangan fitur baru, perbaikan bug, atau eksperimen dilakukan tanpa memengaruhi kode yang sudah ada di cabang utama.
