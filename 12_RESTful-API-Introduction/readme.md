@@ -1,0 +1,5 @@
+RESTful API, singkatan dari Representational State Transfer API, adalah pendekatan arsitektur yang umum digunakan dalam pengembangan layanan web. RESTful API memfasilitasi komunikasi antara aplikasi melalui protokol HTTP dengan prinsip-prinsip utama, termasuk statelessness, penggunaan URL untuk mengakses sumber daya, penggunaan metode HTTP untuk berinteraksi dengan sumber daya, dan representasi data dalam format seperti JSON atau XML.
+
+Salah satu karakteristik kunci RESTful API adalah kesederhanaannya, yang membuatnya mudah dipahami dan diadopsi oleh pengembang. Keuntungan lainnya meliputi kemampuan skalabilitas yang tinggi dan dukungan untuk berbagai format data yang umum digunakan. RESTful API digunakan dalam berbagai konteks, seperti mengambil data dari server (GET), mengirim data baru ke server (POST), memperbarui data yang ada di server (PUT), dan menghapus data dari server (DELETE) melalui permintaan HTTP.
+
+Dengan pemahaman dasar tentang RESTful API, pengembang dapat memanfaatkannya untuk membangun aplikasi yang efisien, terstandarisasi, dan dapat berintegrasi dengan berbagai layanan dan sistem yang berbeda.
