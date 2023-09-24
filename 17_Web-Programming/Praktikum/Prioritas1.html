@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to Digital Library</title>
+    <style>
+        body {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h1 {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Digital Library</h1>
+    <p>Create a new member</p>
+    <form>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <label for="phone">Phone number</label>
+        <input type="tel" id="phone" name="phone" required><br><br>
+
+        <div>
+            <label for="address">Address:</label>
+            <textarea id="address" name="address" rows="6" cols="35"></textarea>
+        </div><br>
+        <label>Gender:</label>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label><br><br>
+
+        <input type="submit" value="Register">
+    </form>
+</body>
+</html>
