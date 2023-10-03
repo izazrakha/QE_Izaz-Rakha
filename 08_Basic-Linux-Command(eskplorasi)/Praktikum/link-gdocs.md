@@ -1,0 +1,2 @@
+Link Google Docs Laporan : https://docs.google.com/document/d/1ViE5lds4_rRflbnouTyPTh3QejqXo7Dz8G-pwWpJvx8/edit?usp=sharing
+Link file soalno2.sh : https://drive.google.com/file/d/1p5m9H5ZQN5Y5M_uKjQDD_kGIzsGl3jRT/view?usp=sharing
