@@ -1,0 +1,5 @@
+Pengenalan JMeter: Materi ini dimulai dengan pengenalan tentang Apache JMeter, yang merupakan perangkat lunak open-source yang digunakan untuk mengukur dan menganalisis kinerja aplikasi web. JMeter dapat digunakan untuk melakukan pengujian beban, pengujian stres, dan pengujian kinerja lainnya.
+
+Langkah-langkah Dasar Recording with JMeter: Materi ini menjelaskan langkah-langkah dasar untuk merekam interaksi pengguna dengan aplikasi web menggunakan JMeter. Ini termasuk mengkonfigurasi proxy server, menyiapkan browser untuk merekam, dan memulai proses perekaman. Poin ini memberikan wawasan tentang cara melakukan rekaman skenario pengujian.
+
+Analisis Hasil Recording: Setelah merekam interaksi dengan aplikasi web, materi ini membahas cara menganalisis hasil rekaman dengan JMeter. Ini mencakup langkah-langkah untuk mengidentifikasi masalah kinerja, mengukur waktu respons server, dan memahami data yang dihasilkan selama pengujian. Pemahaman analisis hasil rekaman adalah kunci untuk mengoptimalkan kinerja aplikasi web.
