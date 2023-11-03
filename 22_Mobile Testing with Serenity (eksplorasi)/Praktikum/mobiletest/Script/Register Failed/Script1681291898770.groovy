@@ -21,7 +21,7 @@ Mobile.startApplication('/Users/User/Downloads/app.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.TextView - No account yet Create one (2)'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (10)'), 'Rini Muzayanah', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText (10)'), 'Izaz Rakha', 0)
 
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText (11)'), 'Bismillah7.', 0)
 

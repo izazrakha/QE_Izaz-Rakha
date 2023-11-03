@@ -21,9 +21,9 @@ Mobile.startApplication('/Users/User/Downloads/app.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.TextView - No account yet Create one'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText'), 'Rini Muzayanah', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText'), 'Izaz Rakha', 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (1)'), 'rimzynh@gmail.com', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText (1)'), 'izazrakha@gmail.com', 0)
 
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText (2)'), 'Bismillah7.', 0)
 
@@ -31,7 +31,7 @@ Mobile.tap(findTestObject('Object Repository/android.widget.Button - REGISTER'),
 
 Mobile.pressBack()
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (4)'), 'rimzynh@gmail.com', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText (4)'), 'izazrakha@gmail.com', 0)
 
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText (5)'), 'Bismillah7.', 0)
 
